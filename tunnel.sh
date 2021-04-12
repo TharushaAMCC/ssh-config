@@ -87,7 +87,10 @@ cat >> "$FILE2" <<EOL
 <font color="#9932CC">&#187; NO TORRENT !!!</font><br>
 <font color="#1E90FF">&#187; NO OVER DOWNLOADING !!!</font><br>
 <br>
-<b><font color="#FF6347">mAX web&trade;</font> Auto Script 2.2</b>
+<b><font color="#FF6347">SERVER AND CONFIGURED BY THARUWA</font><b>
+<br>
+<br>
+<b><font color="#FF0000">“When something is important enough, you do it even if the odds are not in your favour.”</font><font color="#00FF00">-ELON MUSK</font></b>
 <br>
 EOL
 
